@@ -1,8 +1,8 @@
 //! # csurename
 //! csurename is a small command line utility which makes sure your filenames
-//! adhere to @csunibo's naming standards.
+//! adhere to CartaBinaria's naming standards.
 //!
-//! See <https://github.com/csunibo/csurename> for the full documentation.
+//! See <https://github.com/cartabinaria/csurename> for the full documentation.
 
 use std::env;
 use std::error::Error;

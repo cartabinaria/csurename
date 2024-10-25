@@ -4,9 +4,9 @@ version = "1.3.0"
 authors = ["Stefano Volpe, <stefano.volpe2@studio.unibo.it>"]
 edition = "2021"
 license = "GPL-3.0-or-later"
-description = "csurename is a small command line utility which makes sure your filenames adhere to @csunibo's naming standards."
+description = "csurename is a small command line utility which makes sure your filenames adhere to CartaBinaria's naming standards."
 readme = "README.md"
-repository = "https://github.com/csunibo/csurename"
+repository = "https://github.com/cartabinaria/csurename"
 keywords = ["utility", "rename"]
 categories = ["command-line-utilities"]
 

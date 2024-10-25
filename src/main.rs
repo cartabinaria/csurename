@@ -33,7 +33,7 @@ fn main() {
     version,
     about,
     long_about = None,
-    after_help = "Full documentation available here: https://github.com/csunibo/csurename"
+    after_help = "Full documentation available here: https://cartabinaria.students.cs.unibo.it/wiki/raccolte-di-risorse/csurename/index.html"
 )]
 pub struct Args {
     /// Specifies a target directory, working dir if none
